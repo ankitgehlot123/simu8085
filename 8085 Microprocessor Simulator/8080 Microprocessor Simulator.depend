@@ -1,0 +1,221 @@
+# depslib dependency file v1.0
+1492347795 source:c:\users\ankit gehlot\documents\8085_microprocessor_sim\8080 microprocessor simulator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<process.h>
+	"opSelect.h"
+	"opInter.h"
+	"userGuide.h"
+	"output.h"
+	"_exit_.h"
+	"instructions.h"
+
+1492348589 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8080 microprocessor simulator\opselect.h
+
+1492352414 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8080 microprocessor simulator\opinter.h
+
+1492335579 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8080 microprocessor simulator\userguide.h
+
+1492352341 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8080 microprocessor simulator\output.h
+
+1492335518 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8080 microprocessor simulator\_exit_.h
+
+1492352426 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8080 microprocessor simulator\instructions.h
+
+1492355468 source:c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<process.h>
+	"headers/opSelect.h"
+	"headers/opInter.h"
+	"headers/userGuide.h"
+	"headers/output.h"
+	"headers/_exit_.h"
+	"headers/instructions.h"
+
+1492353438 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\headers\opselect.h
+
+1492357150 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\headers\opinter.h
+
+1492353432 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\headers\userguide.h
+
+1492353436 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\headers\output.h
+
+1492335518 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\headers\_exit_.h
+
+1492353441 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\headers\instructions.h
+
+1492488363 source:c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"modules/headers/opSelect.h"
+	"modules/headers/opInter.h"
+	"modules/headers/userGuide.h"
+	"modules/headers/output.h"
+	"modules/headers/_exit_.h"
+	"modules/headers/instructions.h"
+
+1492487414 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\headers\opselect.h
+
+1492487352 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\headers\opinter.h
+
+1492487454 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\headers\userguide.h
+
+1492487437 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\headers\output.h
+
+1492487000 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\headers\_exit_.h
+
+1492487107 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\headers\instructions.h
+
+1492487730 source:c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\headers\_exit_.c
+	<stdlib.h>
+	"_exit_.h"
+
+1492487833 source:c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\headers\instructions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"instructions.h"
+	"opInter.h"
+
+1492487892 source:c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\headers\opinter.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"opInter.h"
+
+1492487754 source:c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\headers\opselect.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"opSelect.h"
+
+1492487936 source:c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\headers\output.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"output.h"
+	"opInter.h"
+
+1492487779 source:c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\headers\userguide.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"userGuide.h"
+
+1492487414 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\modules\headers\opselect.h
+
+1492489452 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\modules\headers\opinter.h
+
+1492487454 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\modules\headers\userguide.h
+
+1492489500 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\modules\headers\output.h
+
+1492488989 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\modules\headers\_exit_.h
+
+1492487107 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\modules\headers\instructions.h
+
+1492488140 source:c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\modules\_exit_.c
+	<stdlib.h>
+	"headers/_exit_.h"
+
+1492488219 source:c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\modules\instructions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers/instructions.h"
+	"headers/opInter.h"
+
+1492488229 source:c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\modules\opinter.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"headers/opInter.h"
+
+1492488239 source:c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\modules\opselect.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"headers/opSelect.h"
+
+1492488253 source:c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\modules\output.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"headers/output.h"
+	"headers/opInter.h"
+
+1492488263 source:c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\modules\userguide.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"headers/userGuide.h"
+
+1492495992 source:c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\source\_exit_.c
+	<stdlib.h>
+	<_exit_.h>
+
+1492488989 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\include\_exit_.h
+
+1492495984 source:c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\source\instructions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<instructions.h>
+	<opInter.h>
+
+1492489043 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\include\instructions.h
+
+1492489452 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\include\opinter.h
+
+1492495154 source:c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\source\main.c
+	<stdio.h>
+	<stdlib.h>
+	"opSelect.h"
+	"opInter.h"
+	"userGuide.h"
+	"output.h"
+	"_exit_.h"
+	"instructions.h"
+
+1492489470 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\include\opselect.h
+
+1492489523 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\include\userguide.h
+
+1492489500 c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\include\output.h
+
+1492495957 source:c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\source\opinter.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<opInter.h>
+
+1492495938 source:c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\source\opselect.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<opSelect.h>
+
+1492495187 source:c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\source\output.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"output.h"
+	"opInter.h"
+
+1492495194 source:c:\users\ankit gehlot\documents\8085_microprocessor_sim\8085 microprocessor simulator\8085 microprocessor simulator\source\userguide.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"userGuide.h"
+
